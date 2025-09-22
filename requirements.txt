@@ -3,5 +3,4 @@ numpy
 pandas
 matplotlib
 plotly
-scikit-learn 
-time
+scikit-learn
